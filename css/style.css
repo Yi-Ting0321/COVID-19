@@ -2837,7 +2837,9 @@ h3 {
 .testmonial_bg_2 {
   background-image: url(../img/testmonial/2..png);
 }
-
+.testmonial_bg_3 {
+  background-image: url(../img/testmonial/3..png);
+}
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
 .service_area {
   background: #83C4FF;
