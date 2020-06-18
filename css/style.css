@@ -234,7 +234,7 @@ h3 {
 
 /* line 163, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/theme-default.scss */
 .overlay2::before {
-  position: absolute;
+  
   content: "";
   background-color: #000000;
   top: 0;
